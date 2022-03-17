@@ -3,7 +3,7 @@
 The goal of the **C++ modules 00 to 08** is to introduce the student to Object-Oriented Programming and the C++ programming language in general.
 Because of the complexity of the language, the students code has to comply with the C++98 standard.
 
-**C++ module 07** introduces the learner to the concept of C++ templates.
+**C++ module 07** introduces the learner to the concept of C++ templates, in particular - function templates, class templates, default types in templates and specialization.
 
 ## Description
 

@@ -16,7 +16,7 @@ Write a function template 'iter', which takes in the address of an array (any ty
 (a more extensive function template & using instance of a function template in another template)
 
 ex02:  
-Develope a class template 'Array', containing elements of type T. Write multiple constructors, creating an array and allocating memory. Oveload subscript operator []. 
+Develope a class template 'Array', containing elements of type T. Write multiple constructors, creating an array and allocating memory. Oveload subscript operator [].  
 (first look into class templates)
 
 ## Learnings

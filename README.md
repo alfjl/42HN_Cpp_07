@@ -22,6 +22,7 @@ Develope a class template 'Array', containing elements of type T. Write multiple
 ## Learnings
 
 A good, albeit quick refresher for my knowledge about function and class templates in C++.
+And through the 42 videos and examples, a deeper view into parametric macros in C, including their pros and cons.
 
 ### Resources
 

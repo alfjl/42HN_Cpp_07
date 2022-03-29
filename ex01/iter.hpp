@@ -9,7 +9,7 @@ void	displayTArray(T &t)
 }
 
 template< typename T >
-void	iter(T *array, size_t length, void (*fkt)(const T &))
+void	iter(T *array, size_t length, void (*fkt)(T &))
 {
 	if (array == nullptr || fkt == nullptr)
 		return ;
